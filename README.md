@@ -122,10 +122,8 @@ Token Address :
 
 ## Successfully Running CI/CD Pipeline :
 
-Soroban Contract CI :  
-![image](ADD_CI_SCREENSHOT)
 
-Frontend CI :  
+ CI/CD woriking Screenshot :  
 ![image](<img width="1916" height="933" alt="Screenshot 2026-03-26 130323" src="https://github.com/user-attachments/assets/b903d1cd-747b-46fb-a487-74cd082bc998" />
 )
 
