@@ -36,8 +36,8 @@ https://reward-app-delta.vercel.app/
 ## Working Screenshots :
 
 Desktop View :  
-![image](<img width="1919" height="867" alt="Screenshot 2026-03-26 135135" src="https://github.com/user-attachments/assets/bbec8410-5184-415f-b0b3-218186cd3474" />
-)
+<img width="1919" height="867" alt="Screenshot 2026-03-26 135135" src="https://github.com/user-attachments/assets/bbec8410-5184-415f-b0b3-218186cd3474" />
+
 
 Wallet Connect :  
 ![image](<img width="1918" height="946" alt="Screenshot 2026-03-26 135113" src="https://github.com/user-attachments/assets/5fd97c44-d3b3-4daf-aba6-56d60fb26e1f" />
