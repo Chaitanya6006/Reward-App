@@ -74,7 +74,8 @@ CONTRACT_ID : `CCWXPEH5PKOOVWIBPRGSW2KMGTBWZNQ4JCHLCONURKHDMPZVQ3BQ72RD`
 ---
 
 ## Frieghter Transaction History :
-![image](<img width="565" height="888" alt="Screenshot 2026-03-26 170245" src="https://github.com/user-attachments/assets/3192ad0e-cfce-49a2-8743-4d5ce7f9ac24" />
+![image](<img width="565" height="888" alt="Screenshot 2026-03-26 170245" src="https://github.com/user-attachments/assets/fd3f7ed6-a862-4413-bad8-be8882f7d686" />
+
 )
 
 
