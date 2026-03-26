@@ -126,7 +126,8 @@ therefore, Successfully running pipelines ✅
 ---
 
 ## Mobile View :
-(https://github.com/user-attachments/assets/0a9814ab-553c-40e6-aa1b-eaf01925a508)
+![WhatsApp Image 2026-03-26 at 4 30 39 PM](https://github.com/user-attachments/assets/902b08ec-6b0d-4188-b325-aaae117e6b0d)
+
 
 
 ---
