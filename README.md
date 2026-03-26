@@ -25,10 +25,13 @@ simply click on deployed dapp link (deployed via vercel)
 
 ---
 
-## Live Demo :
-👉 https://frontend-mauve-three-40.vercel.app
+## GitHub Repository :
+👉 https://github.com/Chaitanya6006/Reward-App  
 
 ---
+##Vercel Deployement Link :
+https://reward-app-delta.vercel.app/
+
 
 ## Working Screenshots :
 
@@ -60,36 +63,34 @@ Real LeaderBord :
 ![image](<img width="1916" height="882" alt="Screenshot 2026-03-26 140246" src="https://github.com/user-attachments/assets/9985d961-76fe-4049-a8af-f176e5a68744" />
 )
 
-Mobile View 📱 :  
-![image](ADD_MOBILE_SCREENSHOT_LINK)
-
----
-
 ## Contract Details :
 
-CONTRACT_ID : `ADD_YOUR_CONTRACT_ID`
+CONTRACT_ID : `CCWXPEH5PKOOVWIBPRGSW2KMGTBWZNQ4JCHLCONURKHDMPZVQ3BQ72RD`
 
 - View On Stellar Expert :  
-![image](ADD_STELLAR_EXPERT_SCREENSHOT_OR_LINK)
+![image](<img width="1918" height="887" alt="Screenshot 2026-03-26 170047" src="https://github.com/user-attachments/assets/0149dec6-5683-4177-8961-784055ea2aad" />
+)
 
 ---
 
 ## Frieghter Transaction History :
-![image](ADD_TRANSACTION_SCREENSHOT)
+![image](<img width="565" height="888" alt="Screenshot 2026-03-26 170245" src="https://github.com/user-attachments/assets/3192ad0e-cfce-49a2-8743-4d5ce7f9ac24" />
+)
 
----
+
+Mobile View 📱 :  
+![image](https://github.com/user-attachments/assets/8c7c84bd-af15-48f0-8920-ef69eb7d70af)
+)
+
 
 ## Test results (Passed Tests) :
 
 test result: ok. all tests passed ✅  
 
-(You can add detailed contract test outputs here if available)
-
----
 
 ## Working Demo Video :
 
-👉 ADD_VIDEO_LINK_HERE
+ https://youtu.be/qWIcK0yYYQc
 
 ---
 
@@ -115,7 +116,7 @@ This ensures secure and on-chain reward processing.
 - Users receive tokens upon completing tasks  
 
 Token Address :  
-`ADD_TOKEN_ADDRESS`
+`CCHD4EXBCDTIK6XPM7UJTLPKHKKFEEYEF2757XPUZLEYDWUVBKGWA5GM`
 
 ---
 
@@ -133,8 +134,19 @@ therefore, Successfully running pipelines ✅
 ---
 
 ## Mobile View :
-![image](ADD_MOBILE_SCREENSHOT_LINK)
+![image](![WhatsApp Image 2026-03-26 at 4 30 39 PM](https://github.com/user-attachments/assets/0a9814ab-553c-40e6-aa1b-eaf01925a508)
+)
+
+---
+## Future Improvements :
+
+- Leaderboard system  
+- NFT achievement badges  
+- Notifications system  
+- Advanced analytics  
 
 ---
 
-## Project Structure :
+## Conclusion :
+
+Reward App demonstrates a full-stack Web3 dApp built on Stellar Soroban with smart contract integration, reward logic, and a modern frontend UI. 🚀  
