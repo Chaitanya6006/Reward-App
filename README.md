@@ -78,7 +78,7 @@ CONTRACT_ID : `CCWXPEH5PKOOVWIBPRGSW2KMGTBWZNQ4JCHLCONURKHDMPZVQ3BQ72RD`
 
 )
 
-
+---
 Mobile View 📱 :  
 ![image](https://github.com/user-attachments/assets/8c7c84bd-af15-48f0-8920-ef69eb7d70af)
 )
