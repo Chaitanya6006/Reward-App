@@ -40,43 +40,41 @@ Desktop View :
 
 
 Wallet Connect :  
-![image](<img width="1918" height="946" alt="Screenshot 2026-03-26 135113" src="https://github.com/user-attachments/assets/5fd97c44-d3b3-4daf-aba6-56d60fb26e1f" />
-)
+<img width="1918" height="946" alt="Screenshot 2026-03-26 135113" src="https://github.com/user-attachments/assets/5fd97c44-d3b3-4daf-aba6-56d60fb26e1f" />
+
 
 profile :  
-![image](<img width="1918" height="865" alt="Screenshot 2026-03-26 140018" src="https://github.com/user-attachments/assets/50f0f670-37b2-49ac-aa5d-2f7458cdfd2b" />
-)
+<img width="1918" height="865" alt="Screenshot 2026-03-26 140018" src="https://github.com/user-attachments/assets/50f0f670-37b2-49ac-aa5d-2f7458cdfd2b" />
+
 
 Original Wallet Balence :  
-![image](<img width="1388" height="731" alt="Screenshot 2026-03-26 140427" src="https://github.com/user-attachments/assets/f2c79d5c-c4a7-4fae-8c03-19878dc4a7c3" />
-)
+<img width="1388" height="731" alt="Screenshot 2026-03-26 140427" src="https://github.com/user-attachments/assets/f2c79d5c-c4a7-4fae-8c03-19878dc4a7c3" />
+
 
 Real Working Tasks :
-![image](<img width="1337" height="733" alt="Screenshot 2026-03-26 140546" src="https://github.com/user-attachments/assets/a0a63fc9-30a2-4203-9778-3515bc52b1ae" />
-)
+<img width="1337" height="733" alt="Screenshot 2026-03-26 140546" src="https://github.com/user-attachments/assets/a0a63fc9-30a2-4203-9778-3515bc52b1ae" />
 
-Original Token Transaction :
-![image](<img width="1812" height="995" alt="Screenshot 2026-03-23 221959" src="https://github.com/user-attachments/assets/e4518fb1-95fa-4823-8861-4d9dee5a9d07" />
-)
+
+Real Token Transaction :
+<img width="1812" height="995" alt="Screenshot 2026-03-23 221959" src="https://github.com/user-attachments/assets/e4518fb1-95fa-4823-8861-4d9dee5a9d07" />
+
 
 Real LeaderBord :  
-![image](<img width="1916" height="882" alt="Screenshot 2026-03-26 140246" src="https://github.com/user-attachments/assets/9985d961-76fe-4049-a8af-f176e5a68744" />
-)
+<img width="1916" height="882" alt="Screenshot 2026-03-26 140246" src="https://github.com/user-attachments/assets/9985d961-76fe-4049-a8af-f176e5a68744" />
+
 
 ## Contract Details :
 
 CONTRACT_ID : `CCWXPEH5PKOOVWIBPRGSW2KMGTBWZNQ4JCHLCONURKHDMPZVQ3BQ72RD`
 
 - View On Stellar Expert :  
-![image](<img width="1918" height="887" alt="Screenshot 2026-03-26 170047" src="https://github.com/user-attachments/assets/0149dec6-5683-4177-8961-784055ea2aad" />
-)
+<img width="1918" height="887" alt="Screenshot 2026-03-26 170047" src="https://github.com/user-attachments/assets/0149dec6-5683-4177-8961-784055ea2aad" />
+
 
 ---
 
 ## Frieghter Transaction History :
-![image](<img width="565" height="888" alt="Screenshot 2026-03-26 170245" src="https://github.com/user-attachments/assets/fd3f7ed6-a862-4413-bad8-be8882f7d686" />
-
-)
+<img width="565" height="888" alt="Screenshot 2026-03-26 170245" src="https://github.com/user-attachments/assets/fd3f7ed6-a862-4413-bad8-be8882f7d686" />
 
 
 ## Test results (Passed Tests) :
@@ -128,8 +126,8 @@ therefore, Successfully running pipelines ✅
 ---
 
 ## Mobile View :
-![image](![WhatsApp Image 2026-03-26 at 4 30 39 PM](https://github.com/user-attachments/assets/0a9814ab-553c-40e6-aa1b-eaf01925a508)
-)
+(https://github.com/user-attachments/assets/0a9814ab-553c-40e6-aa1b-eaf01925a508)
+
 
 ---
 ## Future Improvements :
